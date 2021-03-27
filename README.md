@@ -1,2 +1,2 @@
 # Imers-odev-resultadocalculadora
-Calculadora feita durante o curso Imersão
+Calculadora feita durante o curso Imersão Dev
