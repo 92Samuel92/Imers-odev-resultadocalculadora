@@ -1,0 +1,54 @@
+body {
+    font-family: 'Dela Gothic One',cursive;
+    min-height: 854px;
+    background-image: url('https://i.pinimg.com/564x/e1/30/ba/e130ba58e6137cc23f20f184ec7eb18b.jpg');
+    background-color: #000000;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .calculadora {
+    width: 264px;
+    height:360px;
+    background-image: url('https://i.pinimg.com/564x/87/ef/27/87ef279a7e8a99d9584b1062a1112e31.jpg');
+    margin: 0 auto;
+    position: relative;
+  }
+  
+  h2 {
+    position: absolute;
+    font-size:16px;
+    font-weight:bold;
+    top: 142px;
+    left: calc(50% - 72.5px);
+    width: 145px;
+    text-align:center;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right:10px;
+  }
